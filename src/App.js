@@ -1,7 +1,12 @@
+import { UsersListContainer } from './components/usersList/usersList.container';
+import { TodoListContainer } from './components/todoList/todoList.container';
+
 function App() {
   return (
-    <div className="App">
-      
+    <div>
+      {/* zadanie1 */}
+      <UsersListContainer />
+      <TodoListContainer></TodoListContainer>
     </div>
   );
 }
