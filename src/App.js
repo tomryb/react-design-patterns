@@ -7,13 +7,13 @@ import Counter from './components/zadanie3/counter.component';
 function App() {
   return (
     <div>
-      {/* <h2>zadanie1</h2>
+      <h2>zadanie1</h2>
       <UsersListContainer />
       <TodoListContainer></TodoListContainer>
 
       <h2>zadanie2</h2>
       <UsersListContainerCustomHook></UsersListContainerCustomHook>
-      <TodoListContainerCustomHook></TodoListContainerCustomHook> */}
+      <TodoListContainerCustomHook></TodoListContainerCustomHook>
 
       <h2>zadanie3</h2>
       <Counter />
